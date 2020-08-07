@@ -1,0 +1,194 @@
+body
+{
+    background-color: white;
+     margin:0px;
+     font-family: chilanka ;
+     text-align:center;
+    
+   
+}
+p
+{
+    line-height:2;
+}
+.top
+{
+     background-color:#cffffe;
+    
+   
+    padding-top:18px;
+   padding-bottom:0px;
+}
+   
+
+h1
+{
+    color:#FFA5B0;
+    margin-left:0;
+    font-family:sacramento;
+    font-size:80px;
+    
+}
+.getintouch
+{
+
+    color:#66BFBF;
+    padding:30px;
+    font-size:2.5em;
+}
+
+hr
+{
+    height:5px;
+    background-color:black;
+    margin-bottom:50px;
+}
+p
+{
+    
+    margin-bottom:0px;
+    margin-top:0px;
+    font-weight:normal;
+}
+
+.middle-container
+{
+   padding-top:25px;
+   
+background-color:white;
+
+
+}
+.bottom-container
+{
+background-color:#cffffe;
+padding:30px;
+    
+}
+
+
+.cloud1
+{
+    position:relative ;
+    right:200px;
+    top:200px;
+
+}
+.cloud2
+{
+    position:relative ;
+    left:105px;
+    top:30px;
+}
+.cloud3
+{
+    position:relative ;
+    left:200px;
+}
+u
+{
+    color:black;
+    
+}
+.mnt
+{
+    padding:60px;
+    padding-bottom:0px;
+}
+.para
+{
+    color:#FFA5B0;
+   font-size:2rem;
+   
+
+}
+
+
+a
+{
+   color:#11999e;
+   margin:0px 8px 0 8px;
+   text-decoration: none;
+
+}
+a:hover{
+    color:black;
+    
+}
+
+.skill-row
+{
+    background-color:white;
+    width:50%;
+    margin:auto;
+    margin-top:50px;
+    margin-bottom:100px;
+    text-align:left;
+    line-height:2;
+    padding:50px;
+
+
+}
+.skills
+{
+    background-color:white;
+   
+}
+.comp
+{
+    width:25%;
+    
+    margin-right:30px;
+    margin-bottom:20px;
+    margin-left:20px;
+}
+.chillies
+{
+    width:25%;
+    
+    margin-left:20px;
+    
+}
+.motto
+{
+    width:20%;
+    margin:30px auto 20px auto;
+
+}
+.firstline
+{
+    border-style:dotted dotted none dotted;
+    background-color:white;
+    height:0px;
+    border-width:8px;
+    border-color:#11999e;
+    width:10%;
+    margin-top:20px;
+}
+.secondline
+{
+    border-style:dotted dotted none dotted;
+    background-color:white;
+    height:0px;
+    border-width:8px;
+    border-color:#11999e;
+    width:10%;
+    
+}
+h2
+{
+    color:#66BFBF;
+    margin:0px;
+
+}
+.background
+{
+    width:30%;
+    margin:auto;
+    margin-bottom:30px;
+}
+
+.footnote
+{
+    margin-top:8px;
+}
